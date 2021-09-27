@@ -1,0 +1,3 @@
+En esta primera práctica vamos a crear un proyecto el cual 
+nos preguntará nuestra edad y dependiendo de lo que respondamos,
+nos dirá si somos mayor o menores de edad.
