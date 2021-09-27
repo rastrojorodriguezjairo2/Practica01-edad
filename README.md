@@ -1,0 +1,1 @@
+Esto es una práctica en la cual nos preguntarán la edad y dependiendo de dicha edad, se determinará y dirá si es mayor de edad o no.
