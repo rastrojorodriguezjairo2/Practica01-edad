@@ -2,12 +2,12 @@ import {leerTeclado} from './util/entradaTeclado'
 console.log("Buenos días")
 //Creamos la variable función main que llamamos main 
 let main = async () => {
+    let edad : number
 	const valor = await leerTeclado ('¿Cuantos años tienes?')
-	console.log(`Tienes: ${valor} años`)
-    if (valor < `18`) {
-        console.log(`Eres menor de edad, estás chiquito todavía`)
-        
-    } else console.log(`Eres mayor de edad, ya puedes ir a la cárcel`)
-}
+    edad = parseInt (valor)
+    if (edad < 18) {
+        console.log(`Con que tienes ${valor} entonces eres menor de edad, con años, estás chiquito todavía`)
+    } else console.log(`Con que tienes ${valor} entonces eres mayor de edad, ya puedes ir a la cárcel`)
+    }
 //invocamos a la función 
 main();
