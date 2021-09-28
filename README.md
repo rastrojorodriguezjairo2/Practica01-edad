@@ -1,1 +1,1 @@
-Esto es una práctica en la cual nos preguntarán la edad y dependiendo de dicha edad, se determinará y dirá si es mayor de edad o no.
+En esta práctica vamos a crear un menú el cual nos permitira dependiendo de la opción que escojamos hacer diferentes operaciones matemáticas, es decir una calculadora.
